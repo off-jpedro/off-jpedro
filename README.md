@@ -19,5 +19,4 @@
 - E-mail: oficial.joaopedroribeiro@gmail.com
 ## Linguagens mais Utilizadas
 -C#
--JAVA
 
