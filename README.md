@@ -15,7 +15,7 @@
 - Em breve, compartilharei alguns dos meus projetos aqui.!
 
 ## Contato
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-pedro-ribeiro-da-silva-8a5887257/)](www.linkedin.com/in/joão-pedro-ribeiro-da-silva-8a5887257/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-pedro-ribeiro-da-silva-8a5887257)](www.linkedin.com/in/joão-pedro-ribeiro-da-silva-8a5887257)
 - E-mail: oficial.joaopedroribeiro@gmail.com
 
 
