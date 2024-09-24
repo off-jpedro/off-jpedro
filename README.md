@@ -7,7 +7,7 @@
 - 🚀 Sempre buscando aprender e aprimorar minhas habilidades.
 
 ## Tecnologias e Ferramentas
-- **Linguagens de Programação:** C#, HTML, CSS, SQL, JAVA.
+- **Linguagens de Programação:** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white), HTML, CSS, SQL, JAVA.
 - **Frameworks e Bibliotecas:** ASP.NET, .NET, SPRING BOOT.
 - **Outras Ferramentas:** Git, GitHub.
 
