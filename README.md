@@ -3,7 +3,7 @@
 ## Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unigoias.
 - 💻 Apaixonado por desenvolvimento de software e tecnologia.
-- 🌐 Tenho conhecimento em C#, JAVA, JS, TypeScript
+- 🌐 Tenho conhecimento em C#, Java, JS, TypeScript
 - 🚀 Sempre buscando aprender e aprimorar minhas habilidades.
 
 ## Tecnologias e Ferramentas
