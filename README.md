@@ -16,7 +16,7 @@
 - **Outras Ferramentas:** ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Projetos
-- Em breve, compartilharei alguns dos meus projetos aqui.!
+- Fique a vontade para olhar os meus projetos que compartilharei aqui.!
 
 ## Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-003366?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-ribeiro-da-silva-8a5887257/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ribeiro-da-silva-8a5887257/)
